@@ -1,0 +1,3 @@
+repository=CSV
+persons="persons.txt"
+activities="activities.txt"

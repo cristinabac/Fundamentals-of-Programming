@@ -1,0 +1,10 @@
+1, Ana, 0742123456, Address 1 ; Romania
+2, Maria, 0742123123, Address 2 ; Romania
+3, Baciu Ana, 0743111111, Address 3 ; Romania
+4, Pop Anamaria, 0742111111, Address 4 ; Romania
+5, Popescu Ion, 0742123456, Address 5 ; Romania
+6, John, 0742112233, Address 6; lla; aaa
+7, Mary Anna, 0742998877, Address 7; ahaha ; Romania
+8, Brown Brad, 0742654321, Address 8; street b; ap. b ; Romania
+9, Moldovan Ionel, 0742558877, Address 9; street 9; ap. 999
+10, Ana Maria, 0742777999, Address 10; street Abc; number 123
